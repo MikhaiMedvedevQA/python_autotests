@@ -1,2 +1,3 @@
 # python_autotests
-Пример автотестов на pytest + requests
+Пример автотестов на pytest + requests 
+Selenuim
