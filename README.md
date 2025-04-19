@@ -1,3 +1,3 @@
 # python_autotests
-Пример автотестов на pytest + requests 
-Selenuim
+Автотесты для API. Python, Pytest, Requests.
+Автотесты для Web. Python, Selenuim
