@@ -1,6 +1,6 @@
 class Cfg:
     """
-    Configuration class
+    Configuration class for Stage Pokemons
     """
     URL ='https://pokemonbattle-stage.ru'
     API_URL = 'https://api.pokemonbattle-stage.ru/v2'
