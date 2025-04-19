@@ -1,0 +1,3 @@
+2025-04-18 23:21:14.034 | INFO     | test_vorsa_for_pokemons:test_positive_login:30 - Step 1. Wait for clickable email input, type email and password
+2025-04-18 23:21:15.510 | INFO     | test_vorsa_for_pokemons:test_positive_login:40 - Step 2. Press Enter to login
+2025-04-18 23:21:17.739 | INFO     | test_vorsa_for_pokemons:test_positive_login:46 - Step 3. Find trainer ID

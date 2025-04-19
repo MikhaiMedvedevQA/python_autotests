@@ -1,0 +1,1 @@
+2025-04-18 23:19:43.097 | INFO     | test_pokemon_web:test_negative_login:87 - CASE : 0

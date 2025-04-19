@@ -1,0 +1,1 @@
+2025-04-18 23:21:56.535 | INFO     | test_vorsa_for_pokemons:test_negative_login:63 - Negative case № 3
