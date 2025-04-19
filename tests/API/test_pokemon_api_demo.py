@@ -21,7 +21,7 @@ def test_part_of_response():
     assert response_get.json()['data'][0]['name']== 'mrGreen'
 # параметризированный тест
 # @ фикстура-функция =предусловие (ключ, значение=> [('x1', 'y1'),('x2', 'y2'), ....])
-@pytest.mark.parametrize ('key,value',[('photo_id',444), ('name','mrGreen'), ('trainer_id',TRAINER_ID), ('id','294520')])
+@pytest.mark.parametrize ('key,value',[('photo_id',444), ('name','mrGreen'), ('trainer_id',TRAINER_ID), ('id','295174')])
 # начало теста ->получить всех покемонов тренера
 def test_parametrize(key, value):
     response_parametrize=requests.get(url=f'{URL}/pokemons/', params={'trainer_id':TRAINER_ID})
